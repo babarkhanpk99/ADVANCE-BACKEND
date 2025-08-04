@@ -1,0 +1,11 @@
+{
+  "name": "chai-oor-backend",
+  "version": "1.0.0",
+  "description": "ADVANCAED BACKEND WITH CHAI AUR CODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BABAR KHAN",
+  "license": "ISC"
+}
